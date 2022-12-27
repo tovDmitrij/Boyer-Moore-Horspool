@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleBMXZT", "SimpleBMXZT\SimpleBMXZT.vcxproj", "{16C2B2B9-0151-484A-B48D-3E143A857E15}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMH", "BMH\BMH.vcxproj", "{16C2B2B9-0151-484A-B48D-3E143A857E15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
